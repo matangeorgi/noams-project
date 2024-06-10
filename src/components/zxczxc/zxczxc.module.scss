@@ -1,3 +1,25 @@
 @import '@styles/theme.module.scss';
 .root {
+    width: 333px;
+    height: 222px;
+    display: block;
+    margin: 44px;
+    padding: 33px;
+    font-family:
+        Times New Roman,
+        serif;
+    font-size: 28px;
+    line-height: 1;
+    font-weight: 800;
+    font-style: italic;
+    border: 23px solid black;
+    border-radius: 5em;
+    background-color: #d53232;
+    box-shadow: 3.54px 3.54px 43px 14px #7b32f4;
+    opacity: 0.8;
+    z-index: 33;
+}
+.imgmg {
+    width: 77px;
+    height: 88px;
 }

@@ -3,6 +3,6 @@ import { Zxczxc } from '../../../components/zxczxc/zxczxc';
 
 export default createBoard({
     name: 'Zxczxc',
-    Board: () => <Zxczxc />,
+    Board: () => <Zxczxc txt="blablkaididkxk" />,
     isSnippet: true,
 });
